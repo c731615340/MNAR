@@ -20,3 +20,5 @@ We provided here for convenient but please download coat dataset and Yahoo! R3 d
 Coat: https://www.cs.cornell.edu/~schnabts/mnar/
 Yahoo! R3: https://webscope.sandbox.yahoo.com/
 ```
+
+The experiment result could be found in the experimentresult file, which contains the main tables and graphs that shown in the report.
